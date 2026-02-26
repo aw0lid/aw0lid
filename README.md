@@ -1,9 +1,11 @@
 # Hi, I'm Ahmed 👋
 # Software Developer 🚀
 
-🔍 **Curious about how things work under the hood.** I care about the **why** and **how**, not just using tools. I enjoy solving problems where performance, architecture, and clean engineering matter.
+🔍 **Curious about how things work under the hood.** I care about the **why** and **how**, not just using tools. 
 
-⚙️ **Currently:** building **Backend systems**, mastering **Computer Science & Software Engineering**, and improving **real-world systems** through **Open Source** contributions.
+🧩 **I enjoy solving problems where performance, architecture, and clean engineering matter.**
+
+⚙️ **Currently:** building **Backend systems & Utilities**, mastering **Computer Science & Software Engineering**, and improving **real-world systems** through **Open Source** contributions.
 
 ---
 
