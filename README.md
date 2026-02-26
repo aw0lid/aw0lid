@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ahmed 👋
+# Software Developer 🚀
 
-<!--
-**aw0lid/aw0lid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 **Curious about how things work under the hood.** I care about the **why** and **how**, not just using tools. I enjoy solving problems where performance, architecture, and clean engineering matter.
 
-Here are some ideas to get you started:
+⚙️ **Currently:** building **Backend systems**, mastering **Computer Science & Software Engineering**, and improving **real-world systems** through **Open Source** contributions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 My Philosophy:
+* ✨ **Clarity** over Complexity
+* 🏗️ **Fundamentals** over Shortcuts
+* 📈 **Continuous Progress** over Quick Wins
+
+---
+
+🌱 *Still learning. Constantly evolving.*
