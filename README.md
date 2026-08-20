@@ -31,5 +31,7 @@ Selected technical contributions across major repositories.
 - ✨ Clarity over Complexity
 - 🏗️ Fundamentals over Shortcuts
 - 📈 Continuous Progress over Quick Wins
-
-🌱 Still learning. Constantly evolving.
+---
+<p align="center">
+  🌱 Still learning. Constantly evolving.
+</p>
