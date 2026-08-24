@@ -1,16 +1,12 @@
-# Hi, I'm Ahmed, Software Engineer 👋
+## 🧭 Summary
 
-🔍 Curious about how things work under the hood. I care about the why and how, not just using tools.
-
-🧩 I enjoy solving problems where performance, architecture, and clean engineering matter.
-
-⚙️ Currently: building backend systems & utilities, strengthening my Computer Science & Software Engineering fundamentals, and improving real-world systems through Open Source contributions.
+Software Engineer building software systems and utilities, interested in the fundamentals and deeper concepts of Computer Science and Software Engineering.     
+Enjoys solving problems where performance, design, architecture, and engineering quality matter, and improving real-world systems through Open Source contributions.
 
 ---
 
 ### 🛠️ Open Source Contributions
-
-Selected technical contributions across major repositories.
+<sub><i>Selected contributions.</i></sub>
 
 - Microsoft .NET / Runtime — Optimized `ImmutableHashSet<T>.SetEquals` with comparer-aware fast paths and direct lookups, eliminating unnecessary intermediate allocations and achieving up to ~**4,071,000**× speedup in specific benchmark scenarios, with zero allocations on compatible paths. ([PR #126309](https://github.com/dotnet/runtime/pull/126309))
 
@@ -26,12 +22,6 @@ Selected technical contributions across major repositories.
 
 ---
 
-### 🧠 My Philosophy
-
-- ✨ Clarity over Complexity
-- 🏗️ Fundamentals over Shortcuts
-- 📈 Continuous Progress over Quick Wins
----
 <p align="center">
   🌱 Still learning. Constantly evolving.
 </p>
