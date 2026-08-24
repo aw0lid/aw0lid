@@ -15,9 +15,10 @@ Enjoys solving problems where performance, design, architecture, and engineering
 
 - Microsoft .NET / EF Core — Fixed a memory leak in `LazyLoaderFactory`, preventing unbounded memory growth during large-scale data streaming. ([PR #37977](https://github.com/dotnet/efcore/pull/37977))
 
-- Microsoft .NET / F# — Fixed assembly signing failures across multiple RSA key blob formats. ([PR #19242](https://github.com/dotnet/fsharp/pull/19242))
+- Microsoft .NET / F# — Fixed assembly signature-size calculation to support different SNK key formats.
+  ([PR #19242](https://github.com/dotnet/fsharp/pull/19242))
 
-- Microsoft .NET / VMR/Arcade SDK — Fixed source-build failures on non-Windows platforms related to assembly signing and RSA+SHA-1 compatibility. ([PR #5226](https://github.com/dotnet/dotnet/pull/5226))
+- Microsoft .NET / VMR / Arcade SDK — Fixed non-Windows source-build failures caused by RSA+SHA-1 assembly signing incompatibility. ([PR #5226](https://github.com/dotnet/dotnet/pull/5226))
 
 ---
 
