@@ -19,8 +19,6 @@ Enjoys solving problems where performance, design, architecture, and engineering
 
 - Microsoft .NET / VMR/Arcade SDK — Fixed source-build failures on non-Windows platforms related to assembly signing and RSA+SHA-1 compatibility. ([PR #5226](https://github.com/dotnet/dotnet/pull/5226))
 
-- Authored [InlineCollections](https://github.com/aw0lid/Inline-Collections), providing high-performance, allocation-free data structures designed for latency-sensitive workloads in .NET.
-
 ---
 
 📫 Email: ahmedwalidahmed.0@gmail.com    
