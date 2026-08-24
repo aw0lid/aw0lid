@@ -5,7 +5,7 @@ Enjoys solving problems where performance, design, architecture, and engineering
 
 ---
 
-### 🛠️ Selected Technical Impacts
+### 🛠️ Selected Open Source Contributions
 
 - Microsoft .NET / Runtime — Optimized `ImmutableHashSet<T>.SetEquals`, achieving up to ~**4,071,000**× speedup in specific benchmark scenarios with zero allocations on compatible paths. ([PR #126309](https://github.com/dotnet/runtime/pull/126309))
 
