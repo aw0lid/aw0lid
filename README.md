@@ -1,6 +1,6 @@
 ## 🧭 Summary
 
-Software Engineer building software systems and utilities, continuously deepening my understanding of Computer Science and Software Engineering fundamentals.     
+Software Engineer building reliable, maintainable, scalable, and performance-oriented systems and utilities, continuously deepening my understanding of Computer Science and Software Engineering fundamentals.     
 Enjoys solving problems where performance, design, architecture, and engineering quality matter, and improving real-world systems through Open Source contributions.
 
 ---
