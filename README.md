@@ -1,7 +1,7 @@
 ## 🧭 Summary
 
 Software Engineer building reliable, maintainable, scalable, and performance-oriented systems and utilities, continuously deepening my understanding of Computer Science and Software Engineering principles.     
-Enjoys solving problems where performance, architecture, principles, and quality matter, and improving real-world systems through Open Source contributions.
+Enjoys solving problems where performance, memory behavior, correctness, architecture, engineering principles, and quality matter, considering engineering trade-offs and improving real-world systems through Open Source contributions.
 
 ---
 
